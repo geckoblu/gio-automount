@@ -1,0 +1,16 @@
+autom4te.cache
+Makefile
+config.h
+config.log
+config.status
+data/Makefile
+src/.deps/
+src/Makefile
+stamp-h1
+src/gio-automount
+src/gio-automount.o
+debian/files
+debian/gio-automount.debhelper.log
+debian/gio-automount.substvars
+debian/gio-automount/
+

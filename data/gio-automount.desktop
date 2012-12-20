@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=gio-automount
+Comment=Automount external drives at login
+Type=Application
+Categories=GTK;Network;Email;
+Exec=gio-automount
+Terminal=false
+StartupNotify=false
+NoDisplay=true
+OnlyShowIn=XFCE
+

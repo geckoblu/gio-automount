@@ -1,0 +1,14 @@
+Source: gio-automount
+Section: utils
+Priority: optional
+Maintainer: Alessio Piccoli <alepic@geckoblu.net>
+Build-Depends: debhelper (>= 8.0.0), libgtk2.0-dev
+Standards-Version: 3.9.3
+Homepage: http://www.geckoblu.net/html/gio-automount.html
+Vcs-Git: git://github.com/geckoblu/gio-autotmount.git
+
+Package: gio-automount
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Automount external drives at login.
+ Based on gio API, automount external drives at login.
