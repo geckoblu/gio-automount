@@ -2,7 +2,7 @@
 Name=gio-automount
 Comment=Automount external drives at login
 Type=Application
-Categories=GTK;Network;Email;
+Categories=GTK;Utility;
 Exec=gio-automount
 Terminal=false
 StartupNotify=false
