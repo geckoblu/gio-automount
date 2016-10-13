@@ -3,7 +3,7 @@ Section: utils
 Priority: optional
 Maintainer: Alessio Piccoli <alepic@geckoblu.net>
 Build-Depends: debhelper (>= 8.0.0), libgtk2.0-dev
-Standards-Version: 3.9.4
+Standards-Version: 3.9.7
 Homepage: http://www.geckoblu.net/html/gio-automount.html
 Vcs-Git: git://github.com/geckoblu/gio-autotmount.git
 

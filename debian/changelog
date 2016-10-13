@@ -1,3 +1,9 @@
+gio-automount (0.1.2) xenial; urgency=medium
+
+  * Build for Xenial
+
+ -- Alessio Piccoli <alepic@geckoblu.net>  Mon, 16 May 2016 12:10:45 +0200
+
 gio-automount (0.1.1) unstable; urgency=low
 
   * Moved debian Standards-Version to 3.9.4
